@@ -1,0 +1,10 @@
+vagrant/.vagrant
+.idea
+
+### Laravel ###
+vendor/
+node_modules/
+npm-debug.log
+storage/*.key
+storage/logs/framework/views
+storage/logs/*
